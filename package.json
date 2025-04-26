@@ -6,11 +6,12 @@
     "Backend Development",
     "API Integration",
     "Node",
-	"JavaScript",
-	"Express",
-	"Mongo DB",
-	"freecodecamp"
+    "JavaScript",
+    "Express",
+    "Mongo DB",
+    "freecodecamp"
   ],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
