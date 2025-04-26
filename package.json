@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Daniel Valdez",
+  "description": "Enhancing Backend Skills by Completing this FreeCodeCamp Curriculum.",
   "dependencies": {
     "express": "^4.14.0"
   },
